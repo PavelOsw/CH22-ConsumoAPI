@@ -1,0 +1,9 @@
+.table, td {
+    margin:0 auto;
+    text-align:center;
+}
+
+.logo-halon {
+    height: 100px;
+    width: 100px;
+}
